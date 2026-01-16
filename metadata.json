@@ -1,0 +1,7 @@
+{
+  "name": "Meu Registro Diário",
+  "description": "Aplicativo para controle de registros diários, acompanhamento de histórico e geração de relatórios financeiros.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
